@@ -13,7 +13,7 @@ Bienvenue sur **CryptoZone Africa**, une plateforme de trading de crypto-monnaie
 - MTN Mobile Money
 - Orange Money
 - Airtel Money
-- Wave
+- Wave Money
 
 ## Cryptos supportées actuellement
 - Bitcoin (BTC)
